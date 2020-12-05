@@ -1,9 +1,9 @@
 # my-project
 
 ## DEMO
-```
+
 See [DEMO](https://abushka.github.io/my-project/).
-```
+
 # user
 
 ## Project setup
